@@ -24,7 +24,7 @@ Old table named "PURCHESES"
 New tables named "Purchases2" and "Items"
 
 -- What law did the table comprimize? 
-
+This is a place i don't know what to put here aaaa
 
 -- Hand in the assignments through here 
 -- https://classroom.github.com/a/A9DnH-7r
